@@ -27,6 +27,8 @@ li{
   padding:20px;
   border: 1px solid #dadde1;
   border-radius: 5px;
+  background: linear-gradient(180deg, rgba(214,18,18,0.8995973389355743) 60%, rgba(0,0,0,0.9192051820728291) 5%, rgba(14,190,19,0.9023984593837535) 78%);
+    
 }
 overview{
   margin-bottom: 20px;
